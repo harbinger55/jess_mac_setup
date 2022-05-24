@@ -1,0 +1,6 @@
+# To get the appstore id run_once
+# mas search PACKAGE_NAME
+
+appstore_packages:
+  - "442160987" # flycut
+
